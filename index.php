@@ -1,7 +1,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Titre du site web de SANDY le grand developpeur en PHP</title>
+        <title>Titre du site web de SANDY le grand developpeur en toute langage</title>
         <link rel="stylesheet" href="assets/css/bootstrap.min.css">
          <link rel="stylesheet" href="assets/font-awesome/css/font-awesome.min.css">
          <body>
