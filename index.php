@@ -4,7 +4,7 @@ function multi($val){
     echo $val.'*'.$i.'='.$i*$val.'<br>';
     }
 }
-for ($i=2;$i<=500;$i++){
+for ($i=2;$i<=5;$i++){
 echo multi($i);
 }
 ?>
